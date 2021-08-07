@@ -1,0 +1,22 @@
+{
+  "name": "demo-api-node",
+  "version": "1.0.0",
+  "description": "Node.js API demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminjohnking/demo-api-node.git"
+  },
+  "author": "Benjamin J. King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminjohnking/demo-api-node/issues"
+  },
+  "homepage": "https://github.com/benjaminjohnking/demo-api-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
