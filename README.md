@@ -1,6 +1,6 @@
-# demo-api-node
+# sandbox-api-node
 
-Node.js project for demonstration and experimentation purposes.
+Node.js API sandbox
 
 ## Roadmap
 
