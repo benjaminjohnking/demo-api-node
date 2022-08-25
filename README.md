@@ -1,9 +1,5 @@
 # sandbox-api-node
 
-Node.js API sandbox
+Node.js API sandbox for personal experimentation
 
-## Roadmap
-
-- Container classes for data model
-- Service classes for providing data
-- Unit and integration tests
+* To run, execute command `node index.js`
